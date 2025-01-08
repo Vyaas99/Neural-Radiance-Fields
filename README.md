@@ -8,10 +8,6 @@ This project explores the implementation and application of **Neural Radiance Fi
   - Applied NeRF principles to train neural networks that represent volumetric scene functions.
   - Reconstructed 3D scenes from sparse 2D image datasets using differentiable volume rendering.
 
-- **Code Modularization**:
-  - Developed distinct modules for dataset handling (`lego_data.npz`), NeRF training, and rendering (`part1_code.py` and `part2_code.py`).
-  - Enabled efficient experimentation by breaking down the pipeline into reusable components.
-
 - **Visualization and Analysis**:
   - Rendered and visualized novel views of reconstructed scenes.
   - Included visual examples like `starry_night.jpg` to demonstrate the quality of results.
